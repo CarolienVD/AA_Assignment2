@@ -1,5 +1,7 @@
 images
 keras_example_code
 intermediate
+train_images_square
 .ipynb_checkpoints
 *.jpg
+*.keras
