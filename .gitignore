@@ -5,3 +5,9 @@ train_images_square
 .ipynb_checkpoints
 *.jpg
 *.keras
+1_Tryout.ipynb
+2_Regroup_images.ipynb
+3_Train_test_split.ipynb
+4_Preprocess_images.ipynb
+5_Run_GeoCLIP.ipynb
+6_Finetune_pretrained_model.ipynb
